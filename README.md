@@ -135,10 +135,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 - [PyTorch](https://pytorch.org/) por el framework de deep learning
 
 ## 📞 Contacto
-
-- **Autor**: Tu Nombre
-- **Email**: tu.email@ejemplo.com
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
+- **GitHub**: [@ocjorge](https://github.com/ocjorge)
 
 ---
 
